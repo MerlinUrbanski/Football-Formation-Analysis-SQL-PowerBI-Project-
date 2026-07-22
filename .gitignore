@@ -1,0 +1,9 @@
+# Raw StatsBomb data - reproducible via `git clone` (see README), too large for this repo
+data/
+
+# Built database - reproducible via etl.py, too large for this repo (multi-GB)
+statsbomb.db
+
+# Python
+__pycache__/
+*.pyc

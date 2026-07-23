@@ -1,6 +1,6 @@
 # Football Formation Analysis — SQL + Power BI
 
-This repository includes a short demo video, `Dashboard-Demo.mp4`, showing the finished Power BI dashboard in action — worth watching first for a quick sense of what this project produces before reading how it was built.
+This repository includes a short demo video, `Dashboard-Demo.mp4`, showing the finished Power BI dashboard in action — worth watching first for a quick sense of what this project produces before reading how it was built. Also available on YouTube: https://youtu.be/s2RuBZ_v4vE
 
 ## What this project is
 
